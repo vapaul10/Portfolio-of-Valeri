@@ -1,8 +1,14 @@
 ###### Portfolio-of-Valeri
-###### 👋🏾 Hi, 
+###### 👋🏾 Hi,
+######  
 ######  Thank you for stopping by. 
-######  As an aspiring data scientist, I am building a new career in the field of data science to complement a successful Educational Technology career. 
-######  A Master of Science in Business Analytics from Graziadio Business School has inspired me to push into the field of data, research, analytics, programming ######  and generating new machine learning and AI models. 
-######  My interest is to share ideas, learnings and projects. 
-######  Passionate about data analytics and I will continue to grow my skills in SQL, R, Python, Snowflake, data visualizations using Tableau, Alteryx and more. 
+######  My work as a data scientist complements a successful Ed Tech career.
+######  A Master of Science in Business Analytics from Graziadio Business School inspires me to improve the
+######  fields of data science, research, analytics, programming and the generation of machine learning 
+######  and AI models.
+######  
+######  My interest is to share ideas, knowledge and projects.
+######  My passion is to democratize data and inform others with authentic information and identify bias. ######  My skills continue evolve and improve, especially in SQL, Python, NoSQL, MongoDB, visualizations ######  using Tableau, Alteryx, Microsoft BI and more.
+######
 ######  ✉️ Your questions and feedback are welcome. :)
+######  
